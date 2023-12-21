@@ -1,0 +1,26 @@
+{
+    "configurations": [
+        {
+            "name": "MSP",
+            "includePath": [
+                "/home/dheeraj/msp430/projects/led/**",
+                "/home/dheeraj/msp430/msp430-gcc-support-files/include/**"
+            ],
+            "defines": [],
+            "cStandard": "c17",
+            "cppStandard": "c++14",
+            "intelliSenseMode": "${default}",
+            "mergeConfigurations": false,
+            "browse": {
+                "path": [
+                    "/home/dheeraj/msp430/projects/led/**",
+                    "/home/dheeraj/msp430/projects/led",
+                    "/home/dheeraj/msp430/msp430-gcc-support-files/include/**"
+                ],
+                "limitSymbolsToIncludedHeaders": true
+            },
+            "compilerPath": "/home/dheeraj/msp430/msp430-gcc-9.3.1.11_linux64/bin/msp430-elf-gcc"
+        }
+    ],
+    "version": 4
+}

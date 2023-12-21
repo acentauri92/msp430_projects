@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "led.h": "c",
+        "msp430.h": "c"
+    },
+    "C_Cpp.default.compilerPath": "/home/dheeraj/msp430/msp430-gcc-9.3.1.11_linux64/bin/msp430-elf-gcc"
+}
